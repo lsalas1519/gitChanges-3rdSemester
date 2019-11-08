@@ -48,4 +48,5 @@ for (var i = 0; i < arr.length; i++) {
     t.addRecursive(arr[i])
   }
   t.preOrder()
+  //changes 
 console.log()
