@@ -43,7 +43,7 @@ class Tree {
       
 }
 var t = new Tree()
-var arr = ['Nodo Raiz','Nodo Hijo primer nivel','NodoHijo segundo nivel','Nodo Hijo priemer nivel2','Nodo hijo segundo nivel']
+var arr = ['Sol','Mercurio','venus','tierra','marte','Jupiter','Saturno','Urano','Neptuno','Pluton']
 for (var i = 0; i < arr.length; i++) {
     t.addRecursive(arr[i])
   }
